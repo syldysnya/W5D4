@@ -182,6 +182,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-18
+  x86_64-darwin-19
 
 DEPENDENCIES
   annotate
@@ -205,4 +206,4 @@ DEPENDENCIES
   web-console (>= 3.3.0)
 
 BUNDLED WITH
-   2.2.11
+   2.2.15
